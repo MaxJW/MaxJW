@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-@MaxJW__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=MaxJW_)](https://twitter.com/intent/follow?screen_name=MaxJW_)
+
 <!--
 **MaxJW/MaxJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
