@@ -9,9 +9,8 @@
 const maxjw = {
   pronouns: "He" | "Him",
   code: [C#, .NET, Python, HTML, CSS, JavaScript, Go, Angular],
-  askMeAbout: ["Web Dev", "Computer Vision", "Tech"],
+  askMeAbout: ["Unity", "Web Dev", "Computer Vision", "Tech"],
   currentProject: "Personal Unity Game Project",
-  currentlyLearning: "C#, both in .NET and Unity"
 }
 ```
 
