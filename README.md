@@ -8,12 +8,12 @@
 ```javascript
 const maxjw = {
   pronouns: "He" | "Him",
-  code: [C#, .NET, Python, HTML, CSS, JavaScript, Go, Angular],
+  code: [C#, .NET, Python, HTML, CSS, JavaScript, Go],
   askMeAbout: ["Unity", "Web Dev", "Computer Vision", "Tech"],
   currentProject: "Personal Unity Game Project",
 }
 ```
 
 ##
-
-![Max's github stats](https://github-readme-stats.vercel.app/api?username=MaxJW&show_icons=true&hide=["issues"])
+![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=MaxJW&show_icons=true&hide=issues)
+![Max's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJW&layout=compact)
