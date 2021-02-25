@@ -8,10 +8,10 @@
 ```javascript
 const maxjw = {
   pronouns: "He" | "Him",
-  code: [C#, MVC, .NET Core, Web API, Python, HTML, CSS, JavaScript, Bootstrap, jQuery, SQL Server, AWS],
-  askMeAbout: ["ASP.NET MVC", "Unity", "Web Dev", "Computer Vision", "Technology"],
+  code: [Svelte, C#, ASP.NET MVC, HTML, CSS, JavaScript, Python, Bootstrap, jQuery, SQL Server, AWS],
+  askMeAbout: ["Svelte Development", "ASP.NET MVC", "Unity", "Web Development", "Computer Vision", "Technology"],
   currentWorkProject: "Expanding MyRentalCV and River on LettingWeb",
-  currentPersonalProject: "Personal Unity Game Project",
+  currentPersonalProject: ["Learning Svelte Development", "Personal Unity Game Project"]
 }
 ```
 
