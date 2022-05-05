@@ -9,8 +9,8 @@
 const maxjw = {
   pronouns: "He" | "Him",
   code: [Svelte, Go, C#, JavaScript, Python, AWS, HTML, CSS, Bootstrap],
-  askMeAbout: ["Svelte Development", "Go Programming Language", "Unity", "Web Development", "Computer Vision", "Technology"],
-  currentPersonalProject: ["Learning Svelte Development", "Google Firebase", "Personal Unity Game Project"]
+  askMeAbout: ["Svelte Development", "Go Programming Language", "Unity"],
+  currentPersonalProject: ["Svelte Project using Google Firebase"]
 }
 ```
 
