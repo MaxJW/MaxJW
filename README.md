@@ -15,6 +15,6 @@ const maxjw = {
 ```
 
 ##
-![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=MaxJW&show_icons=true&show_icons=true&title_color=fff&icon_color=4fb4fb&text_color=b3b3b3&bg_color=171b22)
+![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=MaxJW&show_icons=true&show_icons=true&title_color=fff&icon_color=4fb4fb&text_color=b3b3b3&bg_color=171b22&hide_border=true)
 
-![Max's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJW&layout=compact&title_color=fff&text_color=dadada&bg_color=171b22)
+![Max's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJW&layout=compact&title_color=fff&text_color=dadada&bg_color=171b22&hide_border=true)
