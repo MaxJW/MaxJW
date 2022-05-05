@@ -8,13 +8,13 @@
 ```javascript
 const maxjw = {
   pronouns: "He" | "Him",
-  code: [Svelte, C#, ASP.NET MVC, HTML, CSS, JavaScript, Python, Bootstrap, jQuery, SQL Server, AWS],
-  askMeAbout: ["Svelte Development", "ASP.NET MVC", "Unity", "Web Development", "Computer Vision", "Technology"],
-  currentWorkProject: "Expanding MyRentalCV and River on LettingWeb",
-  currentPersonalProject: ["Learning Svelte Development", "Personal Unity Game Project"]
+  code: [Svelte, Go, C#, JavaScript, Python, AWS, HTML, CSS, Bootstrap],
+  askMeAbout: ["Svelte Development", "Go Programming Language", "Unity", "Web Development", "Computer Vision", "Technology"],
+  currentPersonalProject: ["Learning Svelte Development", "Google Firebase", "Personal Unity Game Project"]
 }
 ```
 
 ##
-![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=MaxJW&show_icons=true&hide=issues)
-![Max's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJW&layout=compact)
+![Max's Github Stats](https://github-readme-stats.vercel.app/api?username=MaxJW&show_icons=true&show_icons=true&title_color=fff&icon_color=4fb4fb&text_color=b3b3b3&bg_color=171b22)
+
+![Max's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJW&layout=compact&title_color=fff&text_color=dadada&bg_color=171b22)
